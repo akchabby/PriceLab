@@ -1,2 +1,0 @@
-"""PriceLab pricing analytics package."""
-
